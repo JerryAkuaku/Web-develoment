@@ -53,7 +53,7 @@ form .display input{
 }
 
 .btn.clicked{
-    transform: scale(0.9); /* Shrinks button slightly */
+    transform: scale(0.9);
     background: #2E4053; /* Darkens button when pressed */
     box-shadow: inset 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
